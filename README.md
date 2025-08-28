@@ -1,40 +1,42 @@
-# Excel
+🍽️ Restaurant Sales Data Analysis
 
-📊 Excel Data Analysis Repository
+This project explores a restaurant sales dataset using Microsoft Excel. The analysis demonstrates how to clean, transform, and visualise data to uncover meaningful insights.
 
-Welcome to my Excel Data Analysis Repository!
+🧹 Data Cleaning & Transformation
 
-This repo is a collection of projects where I explore datasets using Microsoft Excel. It highlights the power of Excel not only as a spreadsheet tool, but also as a platform for data cleaning, transformation, descriptive statistics, and analysis.
+Steps taken to prepare the dataset:
 
+✂️ Trimmed white spaces from text fields.
 
-🗂 Repository Contents
+🔢 Rounded quantities to the nearest whole number.
 
-📑 Raw Data – Original Excel files before any processing.
+🌍 Created a Country column based on city values.
 
-🧹 Cleaning & Transformation – Workbooks that document how missing values, duplicates, and formatting inconsistencies are handled.
+🗑 Removed duplicates (5 records identified and deleted).
 
-📈 Descriptive Statistics – Summary tables, pivot tables, and charts providing insights into central tendencies, distributions, and variability.
+📊 Box & Whiskers plot used to detect outliers (could not identify them visually).
 
-📊 Data Analysis – Deeper exploration of the datasets, including trend analysis, comparisons, and visual dashboards.
+🕵️ Manager-level outlier check: one manager showed consistent price outliers → may suggest incorrect data entry.
 
+💰 Created a Revenue column = Price × Quantity.
 
-✨ Key Highlights
+📈 Exploratory Analysis with Pivot Tables
 
-✔️ Data cleaning and preprocessing techniques applied in Excel.
+Using pivot tables, the following business questions were answered:
 
-✔️ Use of formulas, functions, and pivot tables for summarisation.
+⭐ What is the best-selling product?
 
-✔️ Visualisations: bar charts, line charts, scatter plots, histograms, etc.
+💰 What is the total revenue by product?
 
-✔️ Clear documentation of each step for reproducibility.
+🌎 What is the revenue breakdown for products by countries?
 
+📊 Key Takeaways
 
-📌 Example Topics Covered
+Outliers highlight potential data quality issues with certain managers.
 
-Sales transaction analysis
+Top products and country-level splits provide actionable sales insights.
 
-Customer trends by city and product
+Pivot tables make it easy to slice data by product, country, and manager for decision-making.
 
-Payment method breakdowns
-
-Manager performance comparisons
+🖼 Dashboard Preview
+<img width="758" height="431" alt="image" src="https://github.com/user-attachments/assets/a07942e3-3bcd-4fec-b2c4-12c548cb4c59" />
