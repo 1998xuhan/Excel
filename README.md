@@ -6,6 +6,7 @@ Welcome to my Excel Data Analysis Repository!
 
 This repo is a collection of projects where I explore datasets using Microsoft Excel. It highlights the power of Excel not only as a spreadsheet tool, but also as a platform for data cleaning, transformation, descriptive statistics, and analysis.
 
+
 🗂 Repository Contents
 
 📑 Raw Data – Original Excel files before any processing.
@@ -16,6 +17,7 @@ This repo is a collection of projects where I explore datasets using Microsoft E
 
 📊 Data Analysis – Deeper exploration of the datasets, including trend analysis, comparisons, and visual dashboards.
 
+
 ✨ Key Highlights
 
 ✔️ Data cleaning and preprocessing techniques applied in Excel.
@@ -25,6 +27,7 @@ This repo is a collection of projects where I explore datasets using Microsoft E
 ✔️ Visualisations: bar charts, line charts, scatter plots, histograms, etc.
 
 ✔️ Clear documentation of each step for reproducibility.
+
 
 📌 Example Topics Covered
 
