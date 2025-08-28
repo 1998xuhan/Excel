@@ -3,11 +3,10 @@
 This project explores a restaurant sales dataset using Microsoft Excel. The analysis demonstrates how to clean, transform, and visualise data to uncover meaningful insights.
 
 🧹 Data Cleaning & Transformation
-
 Steps taken to prepare the dataset:
 
-✂️ Trimmed white spaces from text fields.
 
+✂️ Trimmed white spaces from text fields.
 🔢 Rounded quantities to the nearest whole number.
 
 🌍 Created a Country column based on city values.
