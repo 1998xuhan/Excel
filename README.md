@@ -38,4 +38,6 @@ Top products and country-level splits provide actionable sales insights.
 Pivot tables make it easy to slice data by product, country, and manager for decision-making.
 
 🖼 Dashboard Preview
+
+
 <img width="758" height="431" alt="image" src="https://github.com/user-attachments/assets/a07942e3-3bcd-4fec-b2c4-12c548cb4c59" />
